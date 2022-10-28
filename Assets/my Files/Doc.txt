@@ -1,0 +1,12 @@
+
+runner game made by Mohamed Mongy for yajolo 
+
+ - - - this project has been recorded and copyrighted - - -
+
+all UI made in Photoshop
+all 3D models made in Blender except Character (from mixamo)
+scripts in this project are Explaind by commenting 
+
+thanks ^_^
+
+
